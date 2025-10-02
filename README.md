@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, mundo 👋
+- 🎓 Atualmente estudante com foco em Back-end,
+- 🚀 Objetivo principal é me tornar um espacialista em desenvolvemento de software.
 
-<!--
-**leoo-deb/leoo-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <a href="https://www.linkedin.com/in/leonan-teixeira" target="_blank"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  <a href="mailto:leonanteixeira@gmail.com" target="_blank"><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+</div>

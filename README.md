@@ -1,4 +1,4 @@
-## Hello, word 👋
+## Hello, world 👋
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Desenvolvedor back-end em formação.

@@ -6,7 +6,7 @@
 
 
 ## 🚀 Tech & Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,linux)](https://skillicons.dev)
 
 ## 💼 Contact
 <div>

@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Desenvolvedor back-end em formação.
-- 🌱 Aprendendo mais sobre Java e suas bibliotecas.
+- 🌱 Aprendizado focado em Java e suas bibliotecas.
 
 
 ## 🚀 Tech & Skills

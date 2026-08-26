@@ -1,9 +1,17 @@
-## Hello, I'm Leo 👋
+<h1 align="center"> Hello, I'm Leo 👋 </h1>
+<p align="center">
+  <b>Back-end Developer Java (Student) | Técnico de TI em @PMNI</b>
+</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonan-teixeira" target="_blank"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
+  <a href="mailto:leonanteixeira.dev@gmail.com" target="_blank"><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+</div>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Desenvolvedor back-end em formação.
-- 🌱 Aprendizado focado em Java e suas bibliotecas.
+---
 
+Sou um estudante de Engenharia de Software e grande entusiasta de **tecnologia**, atualmente focado e com aprendizado contínuo em desenvolvimento back-end como linguagem principal ***Java***, mas também disposto à adaptação e estudos de novas tecnologias. Neste momento, estou realizando estudos sobre o grande ecossistema Spring e durante esse processo pude consolidar conceitos sobre **REST APIs**, **Spring Boot**, **Spring IoC**, **Spring Data JPA**, **Hibernate** e Testes de integrações utilizando a ferramenta **Postman** e unitários com **JUnit** e **Mockito**. Posteriormente embarcando na segurança de aplicações com Spring Security.
+
+---
 
 ## 🚀 Tech & Skills
 ### 🖥️ Backend & APIs
@@ -22,9 +30,3 @@
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 💼 Contact
-<div>
-  <a href="https://www.linkedin.com/in/leonan-teixeira" target="_blank"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
-  <a href="mailto:leonanteixeira.dev@gmail.com" target="_blank"><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-</div>
